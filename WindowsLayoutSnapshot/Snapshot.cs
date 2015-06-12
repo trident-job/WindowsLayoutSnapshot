@@ -56,6 +56,11 @@ namespace WindowsLayoutSnapshot {
         internal long[] MonitorPixelCounts { get; private set; }
         internal int NumMonitors { get; private set; }
 
+        public string GetDisplayString()
+        {
+            return TimeTaken.ToLocalTime().ToString("MMM dd, h:mm tt"); 
+        }
+
         internal TimeSpan Age {
             get { return DateTime.UtcNow.Subtract(TimeTaken); }
         }
