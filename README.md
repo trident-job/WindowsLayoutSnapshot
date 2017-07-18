@@ -1,7 +1,7 @@
 WindowsLayoutSnapshot
 =====================
 
-https://travis-ci.org/trident-job/WindowsLayoutSnapshot.svg?branch=master
+[![Build Status](https://travis-ci.org/trident-job/WindowsLayoutSnapshot.svg?branch=master)](https://travis-ci.org/trident-job/WindowsLayoutSnapshot)
 
 Ever switch monitor configs on your laptop and all of your windows are squished down in size and in the wrong position?  Ever want to minimize all windows but save their layouts and min-max'ed states for later?
 
