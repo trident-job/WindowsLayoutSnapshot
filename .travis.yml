@@ -1,1 +1,3 @@
 language: csharp
+solution: WindowsLayoutSnapshot/WindowsLayoutSnapshot.sln
+os: windows
