@@ -1,6 +1,8 @@
 WindowsLayoutSnapshot
 =====================
 
+https://travis-ci.org/trident-job/WindowsLayoutSnapshot.svg?branch=master
+
 Ever switch monitor configs on your laptop and all of your windows are squished down in size and in the wrong position?  Ever want to minimize all windows but save their layouts and min-max'ed states for later?
 
 WindowsLayoutSnapshot is a windows app to remember and restore window positions.
@@ -25,3 +27,4 @@ The app takes a "snapshot" of your windows layouts every thirty minutes.  You ca
 
 #### License
 This app and its source code are released into the public domain.
+
